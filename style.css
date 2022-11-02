@@ -33,4 +33,11 @@ p{
     color:rgb(79, 23, 170) ;
     font-size: 17px;
     font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+.steps{
+    color: rgb(79, 23, 170);
+    font-size:15px ;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
 }

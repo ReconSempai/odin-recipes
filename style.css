@@ -5,7 +5,7 @@
     font-size: 40px;
     font-weight: 800;
     font-family: 'Times New Roman', Times, serif
-    text-decoration: underline;
+    
 }
 .link{
     color: rgb(247, 143, 7);
@@ -16,4 +16,12 @@
 .images{
     height: auto;
     width: 390px;
+}
+.title-sub{
+    font-size:20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    text-decoration: underline;
+    color:rgb(247, 143, 7);
 }
